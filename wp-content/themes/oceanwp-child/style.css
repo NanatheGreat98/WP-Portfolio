@@ -21,3 +21,8 @@ h1 {
     color: white;
     font: 20px;
 }
+
+/* And this last one is for creating changes to the paragraphs. */
+p {
+    font: 15px;
+}
