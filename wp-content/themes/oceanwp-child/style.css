@@ -11,3 +11,7 @@
  Text Domain:  oceanwpchild
 */
 
+/* In this line I show that I can change the background colour of the body.*/
+body {
+    background-color: green;
+}
