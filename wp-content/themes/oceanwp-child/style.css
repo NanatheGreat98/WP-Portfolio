@@ -11,7 +11,13 @@
  Text Domain:  oceanwpchild
 */
 
-/* In this line I show that I can change the background colour of the body.*/
+/* In this line I show that I can change the background colour of the body. */
 body {
     background-color: green;
+}
+
+/* This one is for changing the settings of H1. */
+h1 {
+    color: white;
+    font: 20px;
 }
